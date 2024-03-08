@@ -1,0 +1,20 @@
+[33mcommit eb1bc02f2837caafac186e15b3e0a0add5a79ab6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: eduardokenji <dudu.okachoji@gmail.com>
+Date:   Fri Mar 8 10:19:42 2024 -0300
+
+    Adicionando a primeira linha de código
+    clear
+    git loh
+    git log
+
+[1mdiff --git a/arquivo.txt b/arquivo.txt[m
+[1mindex 22bdc6d..805a999 100644[m
+[1m--- a/arquivo.txt[m
+[1m+++ b/arquivo.txt[m
+[36m@@ -1 +1,3 @@[m
+[31m-inicio de projeto[m
+\ No newline at end of file[m
+[32m+[m[32minicio de projeto[m
+[32m+[m
+[32m+[m[32mprimeira linha de codigo[m
+\ No newline at end of file[m
